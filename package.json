@@ -1,7 +1,7 @@
 {
   "name": "tic-tac-toe",
   "private": true,
-  "homepage": "https://Stephen-Ogunjobi.github.io/tic-tac-toe",
+  "homepage": "https://Stephen-Ogunjobi.github.io/ticTacToe",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -24,7 +24,7 @@
     "eslint-plugin-react": "^7.34.2",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
-    "vite": "^5.3.1",
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "vite": "^5.3.1"
   }
 }
